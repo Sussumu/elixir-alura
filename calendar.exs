@@ -1,3 +1,4 @@
+# showing different ways to switch/case
 defmodule My.Calendar do
     def weekday(wd) do
         case wd do
